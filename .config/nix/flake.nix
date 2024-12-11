@@ -21,6 +21,7 @@
         pkgs.git
         pkgs.fzf
         pkgs.zoxide
+        pkgs.stow
         pkgs.gnupg
         pkgs.ansible
         pkgs.poetry
