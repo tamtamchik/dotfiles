@@ -49,6 +49,7 @@
           "trezor-suite"
           "telegram"
           "docker"
+          "notion-calendar"
         ];
 
         masApps = {
