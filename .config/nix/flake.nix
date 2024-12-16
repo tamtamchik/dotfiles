@@ -41,15 +41,26 @@
         ];
 
         casks = [
+          # Fonts
           "font-jetbrains-mono-nerd-font"
+          # Version control
           "fork"
+          # Editors
+          "sublime-text"
           "cursor"
+          # Password managers
           "1password"
+          # IDEs
           "jetbrains-toolbox"
+          # Wallets
           "trezor-suite"
+          # Messengers
           "telegram"
+          # Docker
           "docker"
+          # Calendar
           "notion-calendar"
+          # Yubico
           "yubico-authenticator"
         ];
 
