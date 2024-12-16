@@ -50,6 +50,7 @@
           "telegram"
           "docker"
           "notion-calendar"
+          "yubico-authenticator"
         ];
 
         masApps = {
