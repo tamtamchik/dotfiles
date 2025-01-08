@@ -36,9 +36,14 @@
       homebrew = {
         enable = true;
 
+        taps = [
+          { name = "kurtosis-tech/tap"; }
+        ];
+
         brews = [
           "n"
           "mas"
+          "kurtosis-cli"
         ];
 
         casks = [
