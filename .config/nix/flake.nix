@@ -69,6 +69,8 @@
           "notion-calendar"
           # Yubico
           "yubico-authenticator"
+          # Browsers
+          "brave-browser"
         ];
 
         masApps = {
