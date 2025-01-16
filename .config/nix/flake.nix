@@ -54,6 +54,7 @@
           # Editors
           "sublime-text"
           "cursor"
+          "claude"
           # Password managers
           "1password"
           # IDEs
