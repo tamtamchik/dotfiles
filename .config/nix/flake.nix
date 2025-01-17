@@ -44,6 +44,7 @@
           "n"
           "mas"
           "kurtosis-cli"
+          "exercism" # CLI for exercism.io
         ];
 
         casks = [
