@@ -67,8 +67,6 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias ls='ls --color'
 alias c='clear'
-alias nix-switch='cd ~/.config/nix && darwin-rebuild switch --flake .#mbp && cd -'
-alias nix-update='cd ~/.config/nix && nix flake update && cd - && nix-switch'
 
 # Shell integrations
 eval "$(fzf --zsh)"

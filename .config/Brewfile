@@ -1,0 +1,60 @@
+########################
+### TAPS
+########################
+
+tap "homebrew/bundle"
+tap "kurtosis-tech/tap"
+
+########################
+### BREWS
+########################
+
+brew "ansible"
+brew "fzf"
+brew "git"
+brew "gh"
+brew "gnupg"
+brew "n"
+brew "mas"
+brew "poetry"
+brew "pinentry-mac"
+brew "stow"
+brew "zoxide"
+
+brew "kurtosis-tech/tap/kurtosis-cli"
+
+########################
+### CASKS
+########################
+
+# Fonts
+cask "font-jetbrains-mono-nerd-font"
+
+# Applications
+cask "1password"
+cask "brave-browser"
+cask "claude"
+cask "cursor"
+cask "discord"
+cask "docker"
+cask "fork"
+cask "iterm2"
+cask "jetbrains-toolbox"
+cask "notion-calendar"
+cask "sublime-text"
+cask "telegram"
+cask "trezor-suite"
+cask "yubico-authenticator"
+cask "yubico-yubikey-manager"
+cask "zoom"
+
+########################
+### MAS
+########################
+
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "NepTunes", id: 1006739057
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
