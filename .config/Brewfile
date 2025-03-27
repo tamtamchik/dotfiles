@@ -14,6 +14,7 @@ brew "fzf"
 brew "git"
 brew "gh"
 brew "gnupg"
+brew "just"
 brew "n"
 brew "mas"
 brew "python@3.12"
@@ -35,17 +36,19 @@ cask "font-jetbrains-mono-nerd-font"
 # Applications
 cask "1password"
 cask "brave-browser"
-cask "claude"
 cask "cursor"
+cask "claude"
 cask "discord"
-cask "docker"
+cask "orbstack"
 cask "fork"
 cask "iterm2"
 cask "jetbrains-toolbox"
+cask "ledger-live"
 cask "notion-calendar"
 cask "sublime-text"
 cask "telegram"
 cask "trezor-suite"
+cask "visual-studio-code@insiders"
 cask "yubico-authenticator"
 cask "yubico-yubikey-manager"
 cask "zoom"
@@ -54,9 +57,6 @@ cask "zoom"
 ### MAS
 ########################
 
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "NepTunes", id: 1006739057
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
+mas "WireGuard", id: 1451685025
+mas "Things 3", id: 904280696
